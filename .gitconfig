@@ -1,5 +1,8 @@
 [user]
 	name = idcamn
 	email = 43856460+idcamn@users.noreply.github.com
+	signingkey = /Users/idcamn/.ssh/id_ed25519
 [init]
 	defaultBranch = main
+[gpg]
+	format = ssh
