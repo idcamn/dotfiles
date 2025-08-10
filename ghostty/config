@@ -1,0 +1,6 @@
+# Make background transparent and blurry
+background-opacity = 0.5
+background-blur-radius = 30
+
+# Change font size
+font-size = 14
